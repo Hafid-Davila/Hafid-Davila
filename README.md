@@ -1,6 +1,6 @@
 ### Hi, I am Hafid Dávila!
 
-🚀 *My las mission was at [LaunchX Developer Training](https://launchx.rocks/) sponsored by [Innovacción Virtual Program](https://news.microsoft.com/es-xl/mas-de-10-mil-estudiantes-mexicanos-se-han-capacitado-con-tecnologias-de-microsoft/) powered by Microsoft*
+🚀 *My last mission was at [LaunchX Developer Training](https://launchx.rocks/) sponsored by [Innovacción Virtual Program](https://news.microsoft.com/es-xl/mas-de-10-mil-estudiantes-mexicanos-se-han-capacitado-con-tecnologias-de-microsoft/) powered by Microsoft*
 
 #### 🌱 I’m currently in learning mode ...
 ![StudyingGIF](https://user-images.githubusercontent.com/59171612/181078637-a8e4f3ed-74dc-4995-8152-9ffa1ca81615.gif)
