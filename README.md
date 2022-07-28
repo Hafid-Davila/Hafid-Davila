@@ -6,8 +6,9 @@
 ![StudyingGIF](https://user-images.githubusercontent.com/59171612/181078637-a8e4f3ed-74dc-4995-8152-9ffa1ca81615.gif)
 
 #### 💻Code skills aquired so far:  
-HTML    ⭐⭐⭐
-Python  ⭐⭐
+*HTML    ⭐⭐⭐*
+
+*Python  ⭐⭐*
 
 <!--
 **Hafid-Davila/Hafid-Davila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
