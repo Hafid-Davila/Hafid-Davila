@@ -2,8 +2,13 @@
 
 🚀 *My last mission was at [LaunchX Developer Training](https://launchx.rocks/) sponsored by [Innovacción Virtual Program](https://news.microsoft.com/es-xl/mas-de-10-mil-estudiantes-mexicanos-se-han-capacitado-con-tecnologias-de-microsoft/) powered by Microsoft*
 
-#### 🌱 I’m currently in learning mode ...
+#### 🌱 I’m currently in learning mode ... 
 ![StudyingGIF](https://user-images.githubusercontent.com/59171612/181078637-a8e4f3ed-74dc-4995-8152-9ffa1ca81615.gif)
+
+#### 💻Code skills aquired so far:  
+HTML    ⭐⭐⭐
+Python  ⭐⭐
+
 <!--
 **Hafid-Davila/Hafid-Davila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
