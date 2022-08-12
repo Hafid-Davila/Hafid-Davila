@@ -8,6 +8,8 @@
 #### 💻Code skills aquired so far:  
 *HTML    ⭐⭐⭐*
 
+*CSS ⭐⭐⭐*
+
 *Python  ⭐⭐*
 
 <!--
