@@ -1,7 +1,8 @@
-### Hi, I am Hafid Dávila!
+<h1> Hi, I am Hafid Dávila! <img src=https://media.giphy.com/media/meGpQMxGPC461ZD6Ad/giphy.gif width="100"> </h1>
 
-#### 🌱 I’m currently in learning mode ... 
-![StudyingGIF](https://user-images.githubusercontent.com/59171612/181078637-a8e4f3ed-74dc-4995-8152-9ffa1ca81615.gif)
+🚀 *My current mission is...*
+
+<img src=https://user-images.githubusercontent.com/59171612/181078637-a8e4f3ed-74dc-4995-8152-9ffa1ca81615.gif width="200">
 
 🚀 *My last mission was at [LaunchX Developer Training](https://innovaccion.cloud/launchx/) sponsored by [Innovacción Virtual Program](https://innovaccion.cloud/) powered by Microsoft*
 
