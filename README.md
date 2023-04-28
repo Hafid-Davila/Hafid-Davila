@@ -1,5 +1,7 @@
 <h1>Hi, I am Hafid Dávila! <img src=https://media.giphy.com/media/meGpQMxGPC461ZD6Ad/giphy.gif width="100"> </h1>
 
+*I aspire to become a fullstack developer and an advocate for technology and software development, with the purpose of helping others achieve a better future.*
+
 <h3>🚀 My current mission is...</h3>
 
 *Fullstack Training as a coach practitioner at [UCamp_](https://ucamp.io/)*
