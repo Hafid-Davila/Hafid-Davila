@@ -1,4 +1,6 @@
-# Hi, I am Hafid Dávila! <img src=https://media.giphy.com/media/meGpQMxGPC461ZD6Ad/giphy.gif width="100"> 
+# Hi, I am Hafid Dávila! <img src=https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif width="100"> 
+
+**`Digital Craftsman (Developer/Creator)`**
 
 *I am on my way to become a fullstack developer and aspire to be an advocate for technology and software development, with the purpose of helping others achieve a better future.*
 
