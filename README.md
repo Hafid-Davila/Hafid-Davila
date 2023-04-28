@@ -4,7 +4,9 @@
 
 *Fullstack Training as a coach practitioner at [UCamp_](https://ucamp.io/)*
 
-🚀 *My last mission was at [LaunchX Developer Training](https://innovaccion.cloud/launchx/) sponsored by [Innovacción Virtual Program](https://innovaccion.cloud/) powered by Microsoft*
+<h4>🚀 My last mission was...</h4>
+
+*[LaunchX Developer Training](https://innovaccion.cloud/launchx/) sponsored by [Innovacción Virtual Program](https://innovaccion.cloud/) powered by Microsoft*
 
 #### 💻Code skills aquired so far:  
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
