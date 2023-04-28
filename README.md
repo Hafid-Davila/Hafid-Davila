@@ -1,6 +1,6 @@
 <h1>Hi, I am Hafid Dávila! <img src=https://media.giphy.com/media/meGpQMxGPC461ZD6Ad/giphy.gif width="100"> </h1>
 
-<h2>🚀 My current mission is...</h2>
+<h3>🚀 My current mission is...</h3>
 
 *Fullstack Training as a coach practitioner at [UCamp_](https://ucamp.io/)*
 
