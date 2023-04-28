@@ -1,6 +1,6 @@
 <h1>Hi, I am Hafid Dávila! <img src=https://media.giphy.com/media/meGpQMxGPC461ZD6Ad/giphy.gif width="100"> </h1>
 
-*I aspire to become a fullstack developer and an advocate for technology and software development, with the purpose of helping others achieve a better future.*
+*I am on my way to become a fullstack developer and aspire to be an advocate for technology and software development, with the purpose of helping others achieve a better future.*
 
 <h3>🚀 My current mission is...</h3>
 
