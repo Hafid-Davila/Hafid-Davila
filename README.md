@@ -1,19 +1,17 @@
 <h1>Hi, I am Hafid Dávila! <img src=https://media.giphy.com/media/meGpQMxGPC461ZD6Ad/giphy.gif width="100"> </h1>
 
-🚀 *My current mission is...*
+<h2>🚀 My current mission is...</h2>
 
-<img src=https://user-images.githubusercontent.com/59171612/181078637-a8e4f3ed-74dc-4995-8152-9ffa1ca81615.gif width="200">
+*Fullstack Training as a coach practitioner at [UCamp_](https://ucamp.io/)*
 
 🚀 *My last mission was at [LaunchX Developer Training](https://innovaccion.cloud/launchx/) sponsored by [Innovacción Virtual Program](https://innovaccion.cloud/) powered by Microsoft*
 
 #### 💻Code skills aquired so far:  
-*HTML    ⭐⭐⭐*
-
-*CSS ⭐⭐⭐*
-
-*JavaScript  ⭐⭐*
-
-*React ⭐⭐*
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 
 <!--
 **Hafid-Davila/Hafid-Davila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
