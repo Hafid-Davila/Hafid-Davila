@@ -6,11 +6,13 @@
 
 **🚀 My current mission is...**
 
-*Fullstack Training as a coach practitioner at [UCamp_](https://ucamp.io/)*
+*Web Dev Fundamentals as a coach at [UCamp_](https://ucamp.io/)*
 
-**🚀 My last mission was...**
+**🚀 Previous missions...**
 
-*[LaunchX Developer Training](https://innovaccion.cloud/launchx/) sponsored by [Innovacción Virtual Program](https://innovaccion.cloud/) powered by Microsoft*
+*Fullstack Training as a coach practitioner at [UCamp_](https://ucamp.io/) Sep 2022 - May 2023*
+
+*[LaunchX Developer Training](https://innovaccion.cloud/launchx/) sponsored by [Innovacción Virtual Program](https://innovaccion.cloud/) powered by Microsoft - 2022*
 
 ----
 
