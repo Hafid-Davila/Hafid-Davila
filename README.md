@@ -6,9 +6,11 @@
 
 **🚀 My current mission is...**
 
-*Web Dev Fundamentals as a coach at [UCamp_](https://ucamp.io/)*
+*Data Scientist Training at tripleten*
 
 **🚀 Previous missions...**
+
+*Web Dev Fundamentals as a coach at [UCamp_](https://ucamp.io/) 2023* 
 
 *Fullstack Training as a coach practitioner at [UCamp_](https://ucamp.io/) Sep 2022 - May 2023*
 
